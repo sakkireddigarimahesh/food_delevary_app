@@ -1,7 +1,7 @@
 # FOOD DELEVARY WEB PAGE
 SLASH MARK INTERNSHIP ADVANCED - LEVEL
 # LIVE DEMO
-# https://21ak1a0427.github.io/food-delevary/
+# https://sakkireddigarimahesh.github.io/food_delevary_app/
 # OUTPUT
 ![My Portfolio - Google Chrome 24-05-2024 14_25_25](https://github.com/21AK1A0427/portfolio/assets/121687538/f25bd569-aa61-4bd6-8db1-dcd9358794cf)
 ![My Portfolio - Google Chrome 24-05-2024 14_25_46](https://github.com/21AK1A0427/food-delevary/assets/121687538/44445822-61d8-4349-8045-750d17cfa747)
